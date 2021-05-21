@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+.carousel-caption{
+    top: 55%;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+}
+
+.carousel-image{
+    height: 600px;
+    width: 100%;
+}
+
+.user-information{
+    background-color: #e9ebf0;
+    padding: 30px 0;
+}
+
+.spacer{
+    height: 30px;
+    background: #ffffff;
+    width: 100%;
+}
+
+.divider{
+    height: 1px;
+    width: 100%;
+    background: #ffffff;
+}
+
+.fa-instagram{
+    background: -webkit-linear-gradient(45deg, #405de6, #fcaf45);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
